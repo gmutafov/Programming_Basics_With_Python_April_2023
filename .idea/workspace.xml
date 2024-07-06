@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a3e6c80-5964-4203-a489-c38b756f1376" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/While_Loop_Exercise/Old_Books.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/While_Loop_Exercise/Old_Books.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,7 @@
       <updated>1695585976626</updated>
       <workItem from="1720163849654" duration="35000" />
       <workItem from="1720164289764" duration="16000" />
+      <workItem from="1720251365755" duration="153000" />
     </task>
     <servers />
   </component>
